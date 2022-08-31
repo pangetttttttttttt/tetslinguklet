@@ -1,0 +1,71 @@
+.HOMEPAGE {
+  position: center;
+  font-family: Trebuchet MS;
+  font-size: 31px;
+  font-weight: bold;
+  text-decoration:none;
+  color: #e6e6e6;/
+  position: center;
+    }
+
+    @media screen and (max-width: 332px) {
+    .imgh {
+        max-width: 22.858%;
+      }
+    }
+    @media screen and (min-width: 333px) and (max-width: 348px) {
+    .imgh {
+        max-width: 22.958%;
+      }
+    }
+    @media screen and (min-width: 349px) and  (max-width: 366px) {
+    .imgh {
+        max-width: 23.058%;
+      }
+    }
+    @media screen and (min-width: 367px) and (max-width: 386px) {
+    .imgh {
+        max-width: 23.158%;
+      }
+    }
+    @media screen and (min-width: 387px) and (max-width: 408px) {
+    .imgh {
+        max-width: 23.258%;
+      }
+    }
+    @media screen and (min-width: 409px) and (max-width: 434px) {
+    .imgh {
+        max-width: 23.358%;
+      }
+    }
+    @media screen and (min-width: 435px) and (max-width: 480px) {
+      .imgh {
+        max-width: 23.458%;
+      }
+
+
+
+
+
+
+    }
+    @media screen and (min-width: 481px) and (max-width: 767px) {
+      .imgh {
+        max-width: 15.68%;
+      }
+    }
+    @media screen and (min-width: 768px) and (max-width: 1024px) {
+      .imgh {
+        max-width: 15.8%;
+      }
+    }
+    @media screen and (min-width: 1025px) and (max-width: 1280px) {
+      .imgh {
+        max-width: 15.93%;
+      }
+    }
+    @media screen and (min-width: 1281px) {
+      .imgh {
+        max-width: 15.93%;
+      }
+    }
