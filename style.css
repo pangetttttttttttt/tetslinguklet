@@ -1,0 +1,32 @@
+.HOMEPAGE {
+  position: center;
+  font-family: Trebuchet MS;
+  font-size: 31px;
+  font-weight: bold;
+  text-decoration:none;
+  color: #e6e6e6;/
+    }
+
+.DESCRIPTION {
+      position: center;
+      font-family: Trebuchet MS;
+      font-size: 10px;
+      font-weight: 500;
+      text-decoration:none;
+      color: #e6e6e6;/
+        }
+
+    @media screen and (max-width: 320px) {
+    .imgh {
+        max-width: 23.4%;
+        }
+    }
+    @media screen and (min-width: 321px) and (max-width: 375px) {
+      .imgh {
+        max-width: 19.7%;
+        }
+    }
+    @media screen and (min-width: 376px) and (max-width: 425px) {
+      .imgh {
+        max-width: 17.4%;
+        }
