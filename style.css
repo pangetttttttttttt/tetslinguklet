@@ -1,32 +1,74 @@
-.HOMEPAGE {
-  position: center;
-  font-family: Trebuchet MS;
-  font-size: 31px;
-  font-weight: bold;
-  text-decoration:none;
-  color: #e6e6e6;/
-    }
+body {
+  background: #0e0e0e;
+}
 
-.DESCRIPTION {
-      position: center;
-      font-family: Trebuchet MS;
-      font-size: 10px;
-      font-weight: 500;
-      text-decoration:none;
-      color: #e6e6e6;/
+@media only screen and (max-width: 320px) {
+  .imgl {
+    height: auto;
+    width:auto;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
         }
-
-    @media screen and (max-width: 320px) {
-    .imgh {
-        max-width: 23.4%;
+}
+@media only screen and (min-width: 321px) and (max-width: 375px) {
+  .imgl {
+    height: auto;
+    width:auto;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
         }
-    }
-    @media screen and (min-width: 321px) and (max-width: 375px) {
-      .imgh {
-        max-width: 19.7%;
+}
+@media only screen and (min-width: 376px) and (max-width: 425px) {
+  .imgl {
+    height: auto;
+    width:auto;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
         }
-    }
-    @media screen and (min-width: 376px) and (max-width: 425px) {
-      .imgh {
-        max-width: 17.4%;
+}
+@media only screen and (min-width: 426px) and (max-width: 768px) {
+  .imgl {
+    height: auto;
+    width:auto;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
         }
+}
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  .imgl {
+    height: auto;
+    width:auto;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+        }
+}
+@media only screen and (min-width: 1025px) and (max-width: 1440px) {
+  .imgl {
+    height: auto;
+    width:auto;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+        }
+}
+@media only screen and (min-width: 1441px) and (max-width: 2560px) {
+  .imgl {
+    height: auto;
+    width:auto;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+        }
+}
